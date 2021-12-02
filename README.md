@@ -11,4 +11,4 @@ processes take approximate two hours. Instructions are provided below. The Azure
 Demo Environment is an Open Source Project. Contributions are welcome and
 encouraged!
 
-This project has moved to: https://github.com/azuredemoenvironment/azure-demo-environment
+This project has moved to: https://github.com/azuredemoenvironment/ade
